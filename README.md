@@ -10,7 +10,7 @@ Tri pracovné režimy
 Dva stupne citlivosti
 
 **Popis:**  
-Tento elektronický modul je určený pre tlakový senzor typu [FSR](https://www.conrad.sk/senzor-tlaku-fsr-408.k503372) od spoločnosti Conrad. Obsahuje dva analógové vstupy pre senzory. Výstup je jeden relátkový bezpotenciálový kontakt. 
+Tento elektronický modul je určený pre tlakový senzor typu [FSR](https://www.conrad.sk/senzor-tlaku-fsr-408.k503372) od spoločnosti Conrad. Obsahuje dva analógové vstupy pre senzory. Výstup je jeden relátkový bezpotenciálový prepínací kontakt. 
 
 **Nastavenie:**
 >
