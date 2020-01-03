@@ -1,6 +1,6 @@
 # PRESEN-FSR
 ## v1.0
-### Jan Trnik
+###### jatel.sk
 
 **Špecifikácia:**  
 Napájanie: 12V DC / 50mA  
