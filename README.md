@@ -18,6 +18,7 @@ An electronic module originally designed to connect two [FSR](https://www.conrad
 * thermostat
 * automatic lighting with PIR sensor
 * alarm with PIR sensor or radar
+* twilight switch
 * logger
 * automatic watering system
 * fluid flow measurement and automatic switching by volume
