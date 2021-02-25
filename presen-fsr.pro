@@ -1,4 +1,4 @@
-update=Pi  3. január 2020, 01:30:38 CET
+update=Pi 19. február 2021, 22:27:59
 version=1
 last_client=kicad
 [general]
